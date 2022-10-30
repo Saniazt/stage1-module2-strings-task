@@ -3,6 +3,9 @@ package com.epam.mjc;
 import java.util.ArrayList;
 import java.util.List;
 
+import java.util.ArrayList;
+import java.util.List;
+
 public class MethodSignature {
     private String accessModifier;
     private String returnType;
